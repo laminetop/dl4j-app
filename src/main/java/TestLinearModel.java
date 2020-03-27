@@ -113,7 +113,7 @@ public class TestLinearModel {
 
 
 
-      System.out.println("---------------------Evaluation et Prediction du modéle du modéle ----------------------------------------------------------");
+      System.out.println("---------------------Evaluation et Prediction  du modéle ----------------------------------------------------------");
         // Début de l'evaluation du modéle
         System.out.println("Model Evaluation....");
 
